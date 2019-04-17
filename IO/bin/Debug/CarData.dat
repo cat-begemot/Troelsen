@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfJamesBondCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JamesBondCar canFly="true" canSubmerge="true">
+    <theRadio>
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+    </theRadio>
+    <isHatchBack>false</isHatchBack>
+    <description>empty</description>
+  </JamesBondCar>
+  <JamesBondCar canFly="true" canSubmerge="false">
+    <theRadio>
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+    </theRadio>
+    <isHatchBack>false</isHatchBack>
+    <description>empty</description>
+  </JamesBondCar>
+  <JamesBondCar canFly="false" canSubmerge="true">
+    <theRadio>
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+    </theRadio>
+    <isHatchBack>false</isHatchBack>
+    <description>empty</description>
+  </JamesBondCar>
+  <JamesBondCar canFly="false" canSubmerge="false">
+    <theRadio>
+      <hasTweeters>false</hasTweeters>
+      <hasSubWoofers>false</hasSubWoofers>
+    </theRadio>
+    <isHatchBack>false</isHatchBack>
+    <description>empty</description>
+  </JamesBondCar>
+</ArrayOfJamesBondCar>

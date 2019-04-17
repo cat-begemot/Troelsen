@@ -1,0 +1,7 @@
+C:\Users\cat-b\source\repos\Troelsen\MyEBookReader\bin\Debug\MyEBookReader.exe.config
+C:\Users\cat-b\source\repos\Troelsen\MyEBookReader\bin\Debug\MyEBookReader.exe
+C:\Users\cat-b\source\repos\Troelsen\MyEBookReader\bin\Debug\MyEBookReader.pdb
+C:\Users\cat-b\source\repos\Troelsen\MyEBookReader\obj\Debug\MyEBookReader.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Troelsen\MyEBookReader\obj\Debug\MyEBookReader.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\MyEBookReader\obj\Debug\MyEBookReader.exe
+C:\Users\cat-b\source\repos\Troelsen\MyEBookReader\obj\Debug\MyEBookReader.pdb

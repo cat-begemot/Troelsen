@@ -1,0 +1,11 @@
+C:\Users\cat-b\source\repos\Troelsen\Processes\bin\Debug\netcoreapp2.1\Processes.deps.json
+C:\Users\cat-b\source\repos\Troelsen\Processes\bin\Debug\netcoreapp2.1\Processes.runtimeconfig.json
+C:\Users\cat-b\source\repos\Troelsen\Processes\bin\Debug\netcoreapp2.1\Processes.runtimeconfig.dev.json
+C:\Users\cat-b\source\repos\Troelsen\Processes\bin\Debug\netcoreapp2.1\Processes.dll
+C:\Users\cat-b\source\repos\Troelsen\Processes\bin\Debug\netcoreapp2.1\Processes.pdb
+C:\Users\cat-b\source\repos\Troelsen\Processes\obj\Debug\netcoreapp2.1\Processes.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Troelsen\Processes\obj\Debug\netcoreapp2.1\Processes.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\Processes\obj\Debug\netcoreapp2.1\Processes.AssemblyInfoInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\Processes\obj\Debug\netcoreapp2.1\Processes.AssemblyInfo.cs
+C:\Users\cat-b\source\repos\Troelsen\Processes\obj\Debug\netcoreapp2.1\Processes.dll
+C:\Users\cat-b\source\repos\Troelsen\Processes\obj\Debug\netcoreapp2.1\Processes.pdb

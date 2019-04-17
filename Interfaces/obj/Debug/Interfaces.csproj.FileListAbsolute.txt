@@ -1,0 +1,7 @@
+C:\Users\cat-b\source\repos\Troelsen\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\cat-b\source\repos\Troelsen\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\cat-b\source\repos\Troelsen\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\cat-b\source\repos\Troelsen\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Troelsen\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\cat-b\source\repos\Troelsen\Interfaces\obj\Debug\Interfaces.pdb

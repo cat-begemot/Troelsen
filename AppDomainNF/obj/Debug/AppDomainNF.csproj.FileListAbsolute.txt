@@ -1,0 +1,7 @@
+C:\Users\cat-b\source\repos\Troelsen\AppDomainNF\obj\Debug\AppDomainNF.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Troelsen\AppDomainNF\obj\Debug\AppDomainNF.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\AppDomainNF\bin\Debug\AppDomainNF.exe.config
+C:\Users\cat-b\source\repos\Troelsen\AppDomainNF\bin\Debug\AppDomainNF.exe
+C:\Users\cat-b\source\repos\Troelsen\AppDomainNF\bin\Debug\AppDomainNF.pdb
+C:\Users\cat-b\source\repos\Troelsen\AppDomainNF\obj\Debug\AppDomainNF.exe
+C:\Users\cat-b\source\repos\Troelsen\AppDomainNF\obj\Debug\AppDomainNF.pdb

@@ -1,0 +1,15 @@
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe.config
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\MainWindow.g.cs
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\App.g.cs
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.cache
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.lref
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\MainWindow.baml
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.g.resources
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.Properties.Resources.resources
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.GenerateResource.cache
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.exe
+C:\Users\cat-b\source\repos\Troelsen\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.pdb

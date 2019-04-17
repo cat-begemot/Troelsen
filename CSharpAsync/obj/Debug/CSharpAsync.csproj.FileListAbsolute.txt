@@ -1,0 +1,6 @@
+C:\Users\cat-b\source\repos\Troelsen\CSharpAsync\bin\Debug\CSharpAsync.exe.config
+C:\Users\cat-b\source\repos\Troelsen\CSharpAsync\bin\Debug\CSharpAsync.exe
+C:\Users\cat-b\source\repos\Troelsen\CSharpAsync\bin\Debug\CSharpAsync.pdb
+C:\Users\cat-b\source\repos\Troelsen\CSharpAsync\obj\Debug\CSharpAsync.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\CSharpAsync\obj\Debug\CSharpAsync.exe
+C:\Users\cat-b\source\repos\Troelsen\CSharpAsync\obj\Debug\CSharpAsync.pdb

@@ -1,0 +1,7 @@
+C:\Users\cat-b\source\repos\Troelsen\Collections\bin\Debug\Collections.exe.config
+C:\Users\cat-b\source\repos\Troelsen\Collections\bin\Debug\Collections.exe
+C:\Users\cat-b\source\repos\Troelsen\Collections\bin\Debug\Collections.pdb
+C:\Users\cat-b\source\repos\Troelsen\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Troelsen\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\Collections\obj\Debug\Collections.exe
+C:\Users\cat-b\source\repos\Troelsen\Collections\obj\Debug\Collections.pdb

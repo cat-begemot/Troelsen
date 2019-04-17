@@ -1,0 +1,7 @@
+C:\Users\cat-b\source\repos\Troelsen\IO\bin\Debug\IO.exe.config
+C:\Users\cat-b\source\repos\Troelsen\IO\bin\Debug\IO.exe
+C:\Users\cat-b\source\repos\Troelsen\IO\bin\Debug\IO.pdb
+C:\Users\cat-b\source\repos\Troelsen\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Troelsen\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\IO\obj\Debug\IO.exe
+C:\Users\cat-b\source\repos\Troelsen\IO\obj\Debug\IO.pdb
