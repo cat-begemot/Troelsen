@@ -1,0 +1,7 @@
+C:\Users\cat-b\source\repos\Freeman\ADOConsole\bin\Debug\ADOConsole.exe.config
+C:\Users\cat-b\source\repos\Freeman\ADOConsole\bin\Debug\ADOConsole.exe
+C:\Users\cat-b\source\repos\Freeman\ADOConsole\bin\Debug\ADOConsole.pdb
+C:\Users\cat-b\source\repos\Freeman\ADOConsole\obj\Debug\ADOConsole.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Freeman\ADOConsole\obj\Debug\ADOConsole.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Freeman\ADOConsole\obj\Debug\ADOConsole.exe
+C:\Users\cat-b\source\repos\Freeman\ADOConsole\obj\Debug\ADOConsole.pdb
