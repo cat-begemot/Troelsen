@@ -1,0 +1,6 @@
+C:\Users\cat-b\source\repos\Troelsen\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+C:\Users\cat-b\source\repos\Troelsen\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+C:\Users\cat-b\source\repos\Troelsen\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Troelsen\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+C:\Users\cat-b\source\repos\Troelsen\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+C:\Users\cat-b\source\repos\Troelsen\AutoLotDAL\obj\Debug\AutoLotDAL.csprojAssemblyReference.cache
